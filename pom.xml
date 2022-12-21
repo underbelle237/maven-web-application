@@ -6,7 +6,8 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version> 
+	<!-- <version>0.0.3-SNAPSHOT</version> -->
+	<version>0.0.3</version>
 	
 	<name>maven-web-application</name>
 
@@ -22,8 +23,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:3.236.116.55:9000/</sonar.host.url>
-		<sonar.login>0363512f4425ed622961d5e09cc452dfba5f9323</sonar.login>
+		<sonar.host.url>http:3.238.98.102:9000/</sonar.host.url>
+		<sonar.login>ac2d524a856f462462d4c376512640b8ee5ee517</sonar.login>
 		<!-- <sonar.password>admin123</sonar.password>  -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -95,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.236.11.111:8181/chamberlaintech/repository/tesla-webapps-release/</url>
+	      <url>http://3.235.148.251:8181/chamberlaintech/repository/tesla-webapps-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.236.11.111:8181/chamberlaintech/repository/tesla-webapps-snapshot/</url>
+	      <url>http://3.235.148.251:8181/chamberlaintech/repository/tesla-webapps-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Travisapp</finalName>
 		
 		<plugins>
 			<plugin>
