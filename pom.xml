@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>GIDEONAPP </finalName>
+		<finalName>JULLICHAM</finalName>
 		
 		<plugins>
 			<plugin>
