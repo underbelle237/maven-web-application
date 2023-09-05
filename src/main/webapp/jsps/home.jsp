@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to GIDEON ROBWONDZE. Tesla Web application Project30 automation.</h1>
-<h1 align="center">We hope you enjoy your time under mbaku mbah chamberlain.</h1>
+<h1 align="center">Welcome to Travis Tech Academy and Web application Project30 automation.</h1>
+<h1 align="center">We hope you enjoy your time under TRAVIS ACADEMY.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer Training for DevOps, AWS with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -35,12 +35,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Travis Technology, 
+		Montreal, Canada
+		+1 438 928 4597,
+		chamberlainaws@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto: chamberlainaws@gmail.com">Mail to Travis Technologies</a>
 	</span>
 </div>
 <hr>
